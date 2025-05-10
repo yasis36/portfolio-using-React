@@ -11,7 +11,9 @@ const skills = [
     { name: 'HTML',  icon: faHtml5 },
     { name: 'Python',  icon: faPython },
     { name: 'Java',icon: faJava },
-    { name: 'C++',  icon: faCuttlefish }
+    { name: 'C++',  icon: faCuttlefish },
+    { name: 'Vue', icon: faVue}
+    
 ];
 
 
